@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b6b0db4-3ef4-44a3-99f4-0e917af0891b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/answer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/Anchor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteAnchorPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteWheelPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/UserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/Skin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/answer/src/main/java/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/Settings_DCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/Settings_DCL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/Settings_EagerInitalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/Settings_EagerInitalization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/Settings_StaticInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/Settings_StaticInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_01_singleton/Settings_Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_01_singleton/Settings_Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/Blackship.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/Blackship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/BlackshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/BlackshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/DefaultShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/DefaultShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/ShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/ShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/Whiteship.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/Whiteship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_02_factoryMethod/WhiteshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_02_factoryMethod/WhiteshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/Anchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/Anchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/ShipInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/ShipInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/ShipPartsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/ShipPartsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteAnchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteAnchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteAnchorPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteAnchorPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhitePartsProFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhitePartsProFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteWheelPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteWheelPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_03_abstract_factory/WhiteshipPartFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_03_abstract_factory/WhiteshipPartFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/DefaultTourBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/DefaultTourBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/DetailPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/DetailPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/TourDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/TourDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/TourPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/TourPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_04_builder/TourPlanBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_04_builder/TourPlanBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_05_prototype/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_05_prototype/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_05_prototype/GithubIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_05_prototype/GithubIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_01_creational_patterns/_05_prototype/GithubRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_01_creational_patterns/_05_prototype/GithubRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/adapter/AccountUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/adapter/AccountUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/adapter/AccountUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/adapter/AccountUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/user/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/user/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/user/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/user/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_06_adapter/user/UserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_06_adapter/user/UserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/Champion.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/Champion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/DefaultChampion.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/DefaultChampion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/KDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/KDA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/PoolParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/PoolParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/Skin.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/Skin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/아리.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/아리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_07_bridge/아칼리.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_07_bridge/아칼리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_08_composite/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_08_composite/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_08_composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_08_composite/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_08_composite/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_08_composite/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/CommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/CommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/DefaultCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/DefaultCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/SpamFilteringCommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/SpamFilteringCommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_09_decorator/TrimmingCommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_09_decorator/TrimmingCommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_10_fasade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_10_fasade/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_10_fasade/EmailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_10_fasade/EmailMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_10_fasade/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_10_fasade/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_10_fasade/EmailSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_10_fasade/EmailSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_12_proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_12_proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_12_proxy/DefaultGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_12_proxy/DefaultGameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_12_proxy/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_12_proxy/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_structural_patterns/_12_proxy/GameServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_02_structural_patterns/_12_proxy/GameServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/AuthRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/AuthRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/LoggingRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/LoggingRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/PrintRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/PrintRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_13_chain_of_responsibilities/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/GameEndCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/GameEndCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/GameStartCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/GameStartCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/LightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_behavioral_patterns/_14_command/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/src/main/java/_03_behavioral_patterns/_14_command/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/Book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/number.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/RuntimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/RuntimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings2.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings3.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings4.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings5.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/SpringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/SpringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_01_before/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_01_before/ShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/ShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/Blackship.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Blackship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/BlackshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/BlackshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/DefaultShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/DefaultShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/ShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/ShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/Whiteship.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Whiteship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_02_after/WhiteshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/WhiteshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_03_java/CalendarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/CalendarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_03_java/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_03_java/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_02_factory_method/_03_java/SpringBeanFactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/SpringBeanFactoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteAnchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteAnchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteWheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteWheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/Anchor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/ShipInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/ShipInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/ShipPartsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/ShipPartsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/Wheel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteAnchorPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/WhitePartsProFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhitePartsProFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteWheelPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipPartsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipPartsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_03_java/DocumentBuilderFactoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/DocumentBuilderFactoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_03_abstract_factory/_03_java/ShipFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/ShipFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_01_before/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_01_before/DetailPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/DetailPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_01_before/TourPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/TourPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_02_after/DefaultTourBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/DefaultTourBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_02_after/TourDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/TourDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_02_after/TourPlanBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/TourPlanBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_03_java/LombokExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/LombokExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_03_java/SpringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/SpringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_03_java/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/_03_java/StringBuilderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/StringBuilderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_04_builder/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_01_before/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/GithubIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_01_before/GithubRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/GithubRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_02_after/GithubIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/GithubIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_02_after/GithubRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/GithubRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_03_java/GithubIssueData.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/GithubIssueData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_03_java/JavaCollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/JavaCollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_03_java/ModelMapperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/ModelMapperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/_03_java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_05_prototype/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_01_before/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_01_before/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_01_before/security/UserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/security/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/security/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_02_after/security/UserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_03_java/AdapterInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/AdapterInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_03_java/AdapterInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/AdapterInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/_03_java/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_06_adapter/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_01_before/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_01_before/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_01_before/Champion.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_01_before/Champion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_02_after/DefaultChampion.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/DefaultChampion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_02_after/KDA.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/KDA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_02_after/PoolParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/PoolParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_02_after/Skin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_03_java/BridgeInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/BridgeInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_03_java/JdbcExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/JdbcExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/_03_java/Slf4jExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/Slf4jExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_07_bridge/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_01_before/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_01_before/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_02_after/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_02_after/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_02_after/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_02_after/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/_03_java/SwingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_03_java/SwingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_08_composite/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_01_before/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_01_before/SpamFilteringCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/SpamFilteringCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_01_before/TrimmingCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/TrimmingCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/CommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/CommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/DefaultCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/DefaultCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/SpamFilteringCommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/SpamFilteringCommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_02_after/TrimmingCommentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/TrimmingCommentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_03_java/DecoratorInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_03_java/DecoratorInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/_03_java/DecoratorInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_03_java/DecoratorInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_09_decorator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_02_after/EmailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_02_after/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_02_after/EmailSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/_03_java/FacadeInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_03_java/FacadeInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_10_facade/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_01_before/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_01_before/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_02_after/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_02_after/Font.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Font.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_02_after/FontFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/FontFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/_03_java/FlyweightInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_03_java/FlyweightInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_11_flyweight/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_01_before/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_01_before/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_02_after/DefaultGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/DefaultGameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_02_after/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_02_after/GameServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/GameServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_03_java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_03_java/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_03_java/PerfAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/PerfAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/_03_java/ProxyInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/ProxyInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_02_structural_patterns/_12_proxy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/AuthRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/AuthRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/LoggingRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/LoggingRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/AuthRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/AuthRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/LoggingRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/LoggingRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/PrintRequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/PrintRequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/RequestHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/CoRInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/CoRInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_13_chain_of_responsibilities/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_01_before/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_01_before/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_01_before/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_01_before/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/GameEndCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/GameEndCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/GameStartCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/GameStartCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/LightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_02_after/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_03_java/CommandInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_03_java/CommandInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/_03_java/CommandInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_03_java/CommandInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_14_command/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_01_before/PostfixNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_01_before/PostfixNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/MinusExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/MinusExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/MultiplyExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/MultiplyExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/PlusExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PlusExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_02_after/VariableExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/VariableExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_03_java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_03_java/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/_03_java/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_15_interpreter/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_01_before/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_01_before/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_02_after/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_02_after/RecentPostIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/RecentPostIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_16_iterator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_01_before/CleaningService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/CleaningService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_01_before/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_01_before/Gym.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Gym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_01_before/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_01_before/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_02_after/CleaningService.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/CleaningService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_02_after/FrontDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/FrontDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_02_after/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_02_after/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_03_java/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/_03_java/MediatorInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java/MediatorInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_17_mediator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_01_before/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_01_before/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_02_after/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_02_after/GameSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/GameSave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/_03_java/MementoInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_03_java/MementoInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_18_memento/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_01_before/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_01_before/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_02_after/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_02_after/Subscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_02_after/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/FlowInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/FlowInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/MyEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/MyEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/MyRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/ObserverInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/ObserverInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/ObserverInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/ObserverInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/_03_java/PropertyChangeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/PropertyChangeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_19_observer/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_01_before/OnlineCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/OnlineCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_01_before/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/Draft.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Draft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/OnlineCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/OnlineCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/Private.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Private.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/Published.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Published.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/_02_after/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_20_state/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_01_before/BlueLightRedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before/BlueLightRedLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/BlueLightRedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/BlueLightRedLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/Faster.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Faster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/Fastest.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Fastest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/Normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Normal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_02_after/Speed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_21_strategy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_01_before/FileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/FileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_01_before/MultuplyFileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/MultuplyFileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_02_after/FileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/FileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_02_after/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_02_after/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_02_after/Plus.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_03_java/MyHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/MyHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_03_java/TemplateInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/TemplateInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/_03_java/TemplateInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/TemplateInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_22_template/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_01_before/Watch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Pad.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Pad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_02_after/Watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Watch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_03_java/SearchFileVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/SearchFileVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/_23_visitor/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/_03_behavioral_patterns/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/java/me/whiteship/designpatterns/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/answer/src/main/resources/config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/design-patterns">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="design-patterns" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kimjuno1220&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kimjuno1220/design-patterns2.git&quot;,
+    &quot;accountId&quot;: &quot;b135c31b-fd16-479a-82ae-e966a7874859&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30oEoNCAj9qeCxzfxTcu3tRiBI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.design-patterns [:_01_creational_patterns._01_singleton.App.main()].executor": "Run",
+    "Gradle.design-patterns [:_02_structural_patterns._10_fasade.Client.main()].executor": "Run",
+    "Gradle.design-patterns [:_03_behavioral_patterns._15_interpreter.App.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/admin/Projects/extendsBaek/answer/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.App.executor": "Run",
+    "애플리케이션.Client.executor": "Run",
+    "애플리케이션._01_creational_patterns._01_singleton.App.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/answer/src/main/java" />
+      <recent name="$PROJECT_DIR$/answer/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션._03_behavioral_patterns._15_interpreter.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.me.whiteship.designpatterns._01_creational_patterns._01_singleton.App" />
+      <module name="extendsBaek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.me.whiteship.designpatterns._01_creational_patterns._01_singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.me.whiteship.designpatterns._03_behavioral_patterns._13_chain_of_responsibilities.Client" />
+      <module name="extendsBaek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.me.whiteship.designpatterns._03_behavioral_patterns._13_chain_of_responsibilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_creational_patterns._01_singleton.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_creational_patterns._01_singleton.App" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_creational_patterns._01_singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_structural_patterns._10_fasade.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_structural_patterns._10_fasade.Client" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02_structural_patterns._10_fasade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_behavioral_patterns._15_interpreter.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_behavioral_patterns._15_interpreter.App" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03_behavioral_patterns._15_interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션._03_behavioral_patterns._15_interpreter.App" />
+        <item itemvalue="애플리케이션._01_creational_patterns._01_singleton.App (1)" />
+        <item itemvalue="애플리케이션._02_structural_patterns._10_fasade.Client" />
+        <item itemvalue="애플리케이션.Client" />
+        <item itemvalue="애플리케이션.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4b6b0db4-3ef4-44a3-99f4-0e917af0891b" name="변경" comment="" />
+      <created>1754285698122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754285698122</updated>
+      <workItem from="1754285699173" duration="3213000" />
+      <workItem from="1754379405869" duration="4000" />
+      <workItem from="1754807500171" duration="1051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
