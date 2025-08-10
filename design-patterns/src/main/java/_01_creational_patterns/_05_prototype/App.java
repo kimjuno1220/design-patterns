@@ -1,5 +1,4 @@
 package _01_creational_patterns._05_prototype;
-
 public class App {
 
     public static void main(String[] args) throws CloneNotSupportedException {

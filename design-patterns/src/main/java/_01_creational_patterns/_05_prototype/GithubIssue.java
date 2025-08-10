@@ -1,5 +1,4 @@
 package _01_creational_patterns._05_prototype;
-
 import java.util.Objects;
 
 public class GithubIssue implements Cloneable {

@@ -1,5 +1,4 @@
 package _01_creational_patterns._01_singleton;
-
 public class Settings_StaticInner {
 
     private Settings_StaticInner() {}

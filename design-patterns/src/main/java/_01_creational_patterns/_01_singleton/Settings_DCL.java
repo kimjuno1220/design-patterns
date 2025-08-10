@@ -1,5 +1,4 @@
-package _01_creational_patterns._01_singleton;
-//Double Checked Locking
+package _01_creational_patterns._01_singleton;//Double Checked Locking
 public class Settings_DCL {
 
     private static Settings_DCL instance;
