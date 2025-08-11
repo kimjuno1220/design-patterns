@@ -1,0 +1,15 @@
+package _01_creational_patterns._03_abstract_factory;
+
+import _01_creational_patterns._02_factoryMethod.Ship;
+import _01_creational_patterns._02_factoryMethod.ShipFactory;
+
+public class ShipInventory {
+
+    public static void main(String[] args) {
+        ShipFactory shipFactory = new WhiteshipFactory(new WhitePartsProFactory());
+        Ship ship =  shipFactory.createShip();
+        System.out.println(ship.getAnchor().getClass());
+        System.out.println(ship.getClass().getClass());
+
+    }
+}

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b6b0db4-3ef4-44a3-99f4-0e917af0891b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/design-patterns/design-patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/RuntimeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/Settings5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_01_singleton/SpringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_01_before/ShipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Blackship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/BlackshipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/DefaultShipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/ShipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/Whiteship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_02_after/WhiteshipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/CalendarExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/SimpleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_02_factory_method/_03_java/SpringBeanFactoryExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteAnchor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteWheel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_01_before/WhiteshipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/Anchor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/ShipInventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/ShipPartsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/Wheel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteAnchorPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhitePartsProFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteWheelPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_02_after/WhiteshipPartsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/DocumentBuilderFactoryExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/FactoryBeanExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_03_abstract_factory/_03_java/ShipFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/DetailPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_01_before/TourPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/DefaultTourBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/TourDirector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_02_after/TourPlanBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/LombokExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/SpringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/StreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/_03_java/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_04_builder/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/GithubIssue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_01_before/GithubRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/GithubIssue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_02_after/GithubRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/GithubIssueData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/JavaCollectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/ModelMapperExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/_03_java/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_01_creational_patterns/_05_prototype/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/LoginHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_01_before/security/UserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/AccountUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/LoginHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/UserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_02_after/security/UserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/AdapterInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/AdapterInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/_03_java/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_06_adapter/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_01_before/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_01_before/Champion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/DefaultChampion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/KDA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/PoolParty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_02_after/Skin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/BridgeInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/JdbcExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/_03_java/Slf4jExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_07_bridge/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_01_before/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_02_after/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/_03_java/SwingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_08_composite/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/SpamFilteringCommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_01_before/TrimmingCommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/CommentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/DefaultCommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/SpamFilteringCommentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_02_after/TrimmingCommentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_03_java/DecoratorInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/_03_java/DecoratorInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_09_decorator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_02_after/EmailSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/_03_java/FacadeInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_10_facade/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_01_before/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/Font.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_02_after/FontFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/_03_java/FlyweightInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_11_flyweight/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_01_before/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/DefaultGameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_02_after/GameServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/PerfAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/_03_java/ProxyInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_02_structural_patterns/_12_proxy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/AuthRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/LoggingRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_01_before/RequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/AuthRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/LoggingRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/PrintRequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_02_after/RequestHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/CoRInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/MyFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/_03_java/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_13_chain_of_responsibilities/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_01_before/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/GameEndCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/GameStartCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/LightOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/LightOnCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_02_after/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_03_java/CommandInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/_03_java/CommandInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_14_command/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_01_before/PostfixNotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/MinusExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/MultiplyExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PlusExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/PostfixParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_02_after/VariableExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/InterpreterInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/_03_java/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_15_interpreter/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_01_before/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_02_after/RecentPostIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/_03_java/IteratorInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_16_iterator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/CleaningService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Guest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Gym.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_01_before/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/CleaningService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/FrontDesk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/Guest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_02_after/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/_03_java/MediatorInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_17_mediator/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_01_before/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_02_after/GameSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/_03_java/MementoInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_18_memento/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_01_before/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/ChatServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/Subscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_02_after/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/FlowInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/MyRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/ObserverInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/ObserverInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/_03_java/PropertyChangeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_19_observer/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/OnlineCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_01_before/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Draft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/OnlineCourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Private.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Published.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/_02_after/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_20_state/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before/BlueLightRedLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/BlueLightRedLight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Faster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Fastest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Normal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_02_after/Speed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/_03_java/StrategyInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_21_strategy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/FileProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_01_before/MultuplyFileProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/FileProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_02_after/Plus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/MyHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/TemplateInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/_03_java/TemplateInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_22_template/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_01_before/Watch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Pad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_02_after/Watch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/SearchFileVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/_03_java/VisitorInSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/_23_visitor/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/_03_behavioral_patterns/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/target/classes/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_DCL.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_DCL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_StaticInner$SettingsHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_StaticInner$SettingsHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_StaticInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_StaticInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_Synchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_01_singleton/Settings_Synchronized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_04_builder/DefaultTourBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_04_builder/DefaultTourBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_05_prototype/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_05_prototype/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_05_prototype/GithubIssue.class" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/classes/java/main/_01_creational_patterns/_05_prototype/GithubIssue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patterns/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/design-patterns/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extendsBaek.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/extendsBaek/main/java/me/whiteship/designpatterns/extendsBaek.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/design-patterns">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="design-patterns" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kimjuno1220&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kimjuno1220/design-patterns2.git&quot;,
+    &quot;accountId&quot;: &quot;b135c31b-fd16-479a-82ae-e966a7874859&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30oEoNCAj9qeCxzfxTcu3tRiBI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.design-patterns [:_01_creational_patterns._01_singleton.App.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_01_creational_patterns._02_factoryMethod.Client.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_01_creational_patterns._03_abstract_factory.ShipInventory.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_02_structural_patterns._10_fasade.Client.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_03_behavioral_patterns._15_interpreter.App.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_03_behavioral_patterns._16_iterator.Client.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.design-patterns [:_03_behavioral_patterns._17_mediator.Hotel.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;design-patterns-study&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Projects/extendsBaek/answer/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.App.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Button.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Client.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션._01_creational_patterns._01_singleton.App.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션._03_behavioral_patterns._18_memento._01_before.Client.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/answer/src/main/java" />
+      <recent name="$PROJECT_DIR$/answer/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Button">
+    <configuration name="Button" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_behavioral_patterns._14_command.Button" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03_behavioral_patterns._14_command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_behavioral_patterns._16_iterator.Client" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03_behavioral_patterns._16_iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_behavioral_patterns._17_mediator.Hotel" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03_behavioral_patterns._17_mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShipInventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_creational_patterns._03_abstract_factory.ShipInventory" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_creational_patterns._03_abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_creational_patterns._02_factoryMethod.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_creational_patterns._02_factoryMethod.Client" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_creational_patterns._02_factoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Button" />
+        <item itemvalue="애플리케이션.Hotel" />
+        <item itemvalue="애플리케이션.Client" />
+        <item itemvalue="애플리케이션.ShipInventory" />
+        <item itemvalue="애플리케이션._01_creational_patterns._02_factoryMethod.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4b6b0db4-3ef4-44a3-99f4-0e917af0891b" name="변경" comment="" />
+      <created>1754285698122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754285698122</updated>
+      <workItem from="1754285699173" duration="3213000" />
+      <workItem from="1754379405869" duration="4000" />
+      <workItem from="1754807500171" duration="1051000" />
+      <workItem from="1754818972598" duration="26000" />
+      <workItem from="1754819014438" duration="1579000" />
+      <workItem from="1754820601922" duration="10791000" />
+      <workItem from="1754879527152" duration="17000" />
+      <workItem from="1754879551986" duration="627000" />
+      <workItem from="1754880188158" duration="62000" />
+      <workItem from="1754880263453" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
